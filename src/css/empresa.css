@@ -1,10 +1,10 @@
 #empresa #info_empresas p{
-    font-family: 'Roboto:wght@400', sans-serif;
-    font-size: 20px;
-    width: 100%;
+    font-family: 'roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
     height: auto;
     text-align: center;
-    margin-top: 50px;
+    
 
 
 }
@@ -33,7 +33,6 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    font-family: 'Roboto:wght@900', sans-serif;
     max-width: 2000px;
     margin-bottom: 40px;
     padding: 0;

@@ -15,18 +15,14 @@ function Empresa() {
   return (
     <div id="empresa">
       <div id="info_empresas">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
-          Corporis, dignissimos animi. Quod nisi, suscipit vero quis<br />
-          tempora sunt culpa odit tenetur iusto eos soluta, nostrum ullam, <br />
-          laudantium non reprehenderit temporibus?<br /><br />
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
-          Corporis, dignissimos animi. Quod nisi, suscipit vero quis<br />
-          tempora sunt culpa odit tenetur iusto eos soluta, nostrum ullam, <br />
-          laudantium non reprehenderit temporibus?<br /><br />
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
-          Corporis, dignissimos animi. Quod nisi, suscipit vero quis<br />
-          tempora sunt culpa odit tenetur iusto eos soluta, nostrum ullam, <br />
-          laudantium non reprehenderit temporibus?<br />
+        <p>Descubre Magyprint, la tienda de productos personalizadosmás creativos y originales. <br />
+        Fundada por Margarita, Magyprint ofrece una amplia gama de artículos únicos para tu empresa, <br />
+         desde tazas, llaveros, bolsas, botellas, mug térmico, poleras personalizadas, hasta cuadernos y <br />
+         lo que quisieras crear personalizado. Lo que hace destacar a Magyprint es la posibilidad de que los <br />
+         clientes envíen sus propios diseños y fotos, creando regalos personalizados y únicos. <br /><br />
+         Con una creciente reputación por su calidad, originalidad y responsabilidad, Magyprint se <br />
+         ha convertido en la elección preferida para aquellos que buscan regalos especiales y con <br />
+         significado. ¡Descubre el poder de la creatividad en cada regalo que das!
         </p>
       </div>
 

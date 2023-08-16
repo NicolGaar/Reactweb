@@ -1,4 +1,4 @@
-import bannercon from "../img/contacto.png";
+import bannercon from "../Imgbanner/bannerconta.png";
 import "../css/banhe.css";
 
 function Bannercon() {

@@ -1,4 +1,4 @@
-import bannere from "../img/insti.png";
+import bannere from "../Imgbanner/bannerinsti.png";
 import "../css/banhe.css";
 
 function Bannere() {

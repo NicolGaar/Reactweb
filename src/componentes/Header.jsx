@@ -32,7 +32,7 @@ function Header() {
                     </ul>
                 <form className="d-flex" role="search">
                     <input className="form me-2" type="search" placeholder="Buscar..." aria-label="Search"/>
-                    <button className="btn btn-outdivne-success" type="submit"><i class="fa-solid fa-magnifying-glass" style={{color: '#3fa09b'}}></i></button>  
+                    <button className="btn btn-outdivne-success" type="submit"><i className="fa-solid fa-magnifying-glass" style={{color: '#3fa09b'}}></i></button>  
                 </form>
                 </div>
             </div>

@@ -18,22 +18,22 @@ function Contacto() {
                     <div className="col-12 col-md-4">
                         <div className="ubi">
                             <img src={ubicacion} alt="" /> <br />
-                            <span>UBICACION</span>
-                            <p>Av. Brasil 7948, Renca</p>
+                            <span className='titulotarjeta'>UBICACION</span>
+                            <p className='ptarjeta'>Av. Brasil 7948, Renca</p>
                         </div>
                     </div>
                     <div className="col-12 col-md-4">
                         <div className="email">
-                            <img src={whats} alt="" /> <br />
-                            <span>EMAIL</span>
-                            <p>magyprint7@gmail.com</p>
+                            <img src={whats}  alt="" /> <br />
+                            <span className='titulotarjeta'>EMAIL</span>
+                            <p className='ptarjeta'>magyprint7@gmail.com</p>
                         </div>
                     </div>
                     <div className="col-12 col-md-4">
                         <div className="fono">
                             <img src={email} alt="" /><br />
-                            <span>TELÉFONO</span>
-                            <p>+56 977869076</p>
+                            <span className='titulotarjeta'>TELÉFONO</span>
+                            <p className='ptarjeta'>+56 977869076</p>
                         </div>
                     </div>
                     <div className="row margen-top">
