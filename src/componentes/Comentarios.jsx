@@ -10,7 +10,7 @@ import abuela from "../imglogo/recetaabuela.png";
 import "../css/inicio.css";
 function Comentarios() {
   return (
-    <div id="comentario" className="container">
+    <div id="comentario" className="container-fluid">
       <h2 className="titulos">Confian en nosotros</h2>
       <br />
       <div id="carouselExampleIndicators3" className="carousel slide">

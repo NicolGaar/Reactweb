@@ -87,14 +87,12 @@ color: #3fa09b;
 /*comentarios*/
 #comentario {
   height: 70vh;
-
-
+  display: inline-block;
 }
 
 #comentario .img-text h2 {
   text-transform: uppercase;
   letter-spacing: 2px;
-
 }
 
 
@@ -137,3 +135,8 @@ border-radius: 50%;
 top: 50%;
 transform: translateY(-80%);
 }
+
+/* .carousel-inner {
+  width: 80%;
+  justify-items: center;
+} */
