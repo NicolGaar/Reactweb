@@ -85,7 +85,7 @@ function Contacto() {
                             <input className="form-control" type="file" id="formFile" accept=".jpg, .png, .gif"
                                 title="Selecciona un archivo" />
                         </div>
-                        <button type="submit" className="boton-c">Más información</button>
+                        <button type="submit" className="boton-c">Enviar</button>
                     </form>
                 </div>
                 <div className="hor-ubi">

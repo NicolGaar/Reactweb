@@ -18,7 +18,7 @@ function Header() {
                     <a className="nav-divnk active" aria-current="page" href="/">INICIO</a>
                     </div>
                     <div className="nav-item">
-                    <a className="nav-divnk" href="#">CATALOGO</a>
+                    <a className="nav-divnk" href="/catalogo">CATALOGO</a>
                     </div>
                     <div className="nav-item">
                     <a className="nav-divnk" href="/empresa">EMPRESAS</a>

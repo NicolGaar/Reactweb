@@ -7,7 +7,8 @@ import cony from "../imglogo/cony.png";
 import nahuel from "../imglogo/nahuel2.png";
 import nicol from "../imglogo/nicolcake.png";
 import abuela from "../imglogo/recetaabuela.png";
-import "../css/inicio.css";
+import "../css/slideComentario.css";
+
 function Comentarios() {
   return (
     <div id="comentario" className="container-fluid">
@@ -25,7 +26,7 @@ function Comentarios() {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <div className="row">
-              <div className="col-md-4">
+              <div className="col-md-3">
                 <div className="single-box">
                   <div className="img-area">
                     <img src={pausan} alt="" /></div>
@@ -35,7 +36,7 @@ function Comentarios() {
                   </div>
                 </div>
               </div>
-              <div className="col-md-4">
+              <div className="col-md-3">
                 <div className="single-box">
                   <div className="img-area">
                     <img src={dulce} alt="" /></div>
@@ -45,7 +46,7 @@ function Comentarios() {
                   </div>
                 </div>
               </div>
-              <div className="col-md-4">
+              <div className="col-md-3">
                 <div className="single-box">
                   <div className="img-area">
                     <img src={encanto} alt="" /></div>
@@ -59,7 +60,7 @@ function Comentarios() {
           </div>
           <div className="carousel-item">
             <div className="row">
-              <div className="col-md-4">
+              <div className="col-md-3">
                 <div className="single-box">
                   <div className="img-area">
                     <img src={sabores} alt="" /></div>
@@ -69,7 +70,7 @@ function Comentarios() {
                   </div>
                 </div>
               </div>
-              <div className="col-md-4">
+              <div className="col-md-3">
                 <div className="single-box">
                   <div className="img-area">
                     <img src={marley} alt="" /></div>
@@ -79,7 +80,7 @@ function Comentarios() {
                   </div>
                 </div>
               </div>
-              <div className="col-md-4">
+              <div className="col-md-3">
                 <div className="single-box">
                   <div className="img-area">
                     <img src={cony} alt="" /></div>
@@ -93,7 +94,7 @@ function Comentarios() {
           </div>
           <div className="carousel-item">
             <div className="row">
-              <div className="col-md-4">
+              <div className="col-md-3">
                 <div className="single-box">
                   <div className="img-area">
                     <img src={nahuel} alt="" /></div>
@@ -103,7 +104,7 @@ function Comentarios() {
                   </div>
                 </div>
               </div>
-              <div className="col-md-4">
+              <div className="col-md-3">
                 <div className="single-box">
                   <div className="img-area">
                     <img src={nicol} alt="" /></div>
@@ -113,7 +114,7 @@ function Comentarios() {
                   </div>
                 </div>
               </div>
-              <div className="col-md-4">
+              <div className="col-md-3">
                 <div className="single-box">
                   <div className="img-area">
                     <img src={abuela} alt="" /></div>
